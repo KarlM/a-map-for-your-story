@@ -1,0 +1,217 @@
+{
+  "title": "a clean (and narrow) implementation for showing derived satellite data products of the Great Barrier Reef",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Me",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "deploy to cloud",
+          "id": 34,
+          "attr": {
+            "style": {
+              "background": "#FFFACD"
+            }
+          }
+        },
+        "2": {
+          "title": "measure feature usage",
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#FFFACD"
+            }
+          }
+        },
+        "3": {
+          "title": "clean code",
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#FFFACD"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#DEB887"
+        }
+      }
+    },
+    "2": {
+      "title": "BoM staff",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "eReefs UI devs",
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#DEB887"
+            }
+          }
+        },
+        "2": {
+          "title": "data devs",
+          "id": 11,
+          "attr": {
+            "style": {
+              "background": "#DEB887"
+            }
+          }
+        },
+        "3": {
+          "title": "mgment",
+          "id": 14,
+          "attr": {
+            "style": {
+              "background": "#DEB887"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#DEB887"
+        }
+      }
+    },
+    "-1": {
+      "title": "GBRMPA reef managers",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "use area summaries to help make decisions",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "daily area summaries at a range of physical scales",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "whole reef",
+                  "id": 37
+                },
+                "2": {
+                  "title": "mgment zones",
+                  "id": 41
+                },
+                "3": {
+                  "title": "fishing grid",
+                  "id": 42
+                },
+                "4": {
+                  "title": "clustering",
+                  "id": 43,
+                  "ideas": {}
+                },
+                "5": {
+                  "title": "satellite pixel",
+                  "id": 45,
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                }
+              }
+            },
+            "2": {
+              "title": "a range of data products",
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "Chl-a",
+                  "id": 38
+                },
+                "2": {
+                  "title": "etc",
+                  "id": 39,
+                  "ideas": {}
+                }
+              }
+            },
+            "3": {
+              "title": "temporal area summaries at a range of temporal scales",
+              "id": 18
+            },
+            "4": {
+              "title": "compare data summaries with 'raw' satellite imagery",
+              "id": 19
+            },
+            "5": {
+              "title": "place derived data in useful context",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "river locations",
+                  "id": 22,
+                  "ideas": {
+                    "1": {
+                      "title": "river outflows",
+                      "id": 23
+                    }
+                  }
+                },
+                "2": {
+                  "title": "administrative boundaries",
+                  "id": 24
+                },
+                "3": {
+                  "title": "reef locations",
+                  "id": 26
+                },
+                "4": {
+                  "title": "base map",
+                  "id": 32,
+                  "ideas": {
+                    "1": {
+                      "title": "switch base maps at will - dark, light, photo",
+                      "id": 33
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "compare data summaries from different products",
+              "id": 27,
+              "ideas": {}
+            },
+            "7": {
+              "title": "compare data summaries from different time ranges ",
+              "id": 29
+            },
+            "8": {
+              "title": "download more detailed data",
+              "id": 30
+            },
+            "9": {
+              "title": "share URL of info they have found",
+              "id": 31
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFACD"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#DEB887"
+        }
+      }
+    }
+  },
+  "links": []
+}
